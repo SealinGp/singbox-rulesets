@@ -2,7 +2,7 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": ["claude.ai", "chatgpt.com", "x.ai", "grok.com"]
+      "domain_suffix": ["claude.ai", "chatgpt.com", "x.ai", "grok.com","anthropic.com"]
     }
   ]
 }
