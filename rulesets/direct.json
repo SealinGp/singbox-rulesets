@@ -2,7 +2,23 @@
   "version": 3,
   "rules": [
     {
-      "ip_cidr": ["199.180.115.0/24"]
+      "ip_cidr": ["199.180.115.0/24"],
+      "domain":[
+        "images-cn.ssl-images-amazon.com",
+        "cdn.cookielaw.org",
+        "d36jcksde1wxzq.cloudfront.net",
+        "pigment.kobalte.dev"
+      ],
+      "domain_suffix": [
+      "amazon.com",
+      "controlplaneapp.com",
+      "amazonaws.com",
+      "amazon.dev",
+      "synology.cn",
+      "synology.com",
+      "synology.com",
+      "binance.com"
+    ]
     }
   ]
 }
