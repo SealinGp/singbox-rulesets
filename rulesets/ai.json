@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "chat.openai.com",
         "claude.ai",
+        "claude.com",
         "chatgpt.com",
         "x.ai",
         "grok.com",
