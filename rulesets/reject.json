@@ -2,7 +2,6 @@
   "version": 3,
   "rules": [
     {
-      "domain": [],
       "domain_suffix": [
         "paddleapi.com",
         "paddle.com",
@@ -35,7 +34,13 @@
         "wwis-dubc1-vip100.adobe.com",
         "cc-api-data.adobe.io",
         "fp.adobestats.io",
-        "ic.adobe.io"
+        "ic.adobe.io"        
+      ],
+      "domain":[
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "enduser.adsrvr.org",
+        "aax.amazon-adsystem.com"
       ]
     }
   ]
