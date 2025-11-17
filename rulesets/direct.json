@@ -10,16 +10,18 @@
         "pigment.kobalte.dev"
       ],
       "domain_suffix": [
-      "amazon.com",
-      "controlplaneapp.com",
-      "amazonaws.com",
-      "amazon.dev",
-      "synology.cn",
-      "synology.com",
-      "synology.com",
-      "binance.com",
-      "waimaoxia.com"
-    ]
+        "amazon.com",
+        "controlplaneapp.com",
+        "amazonaws.com",
+        "amazon.dev",
+        "synology.cn",
+        "synology.com",
+        "synology.com",
+        "binance.com",
+        "waimaoxia.com",
+        "binance.info",
+        "binance.com"
+      ]
     }
   ]
 }
