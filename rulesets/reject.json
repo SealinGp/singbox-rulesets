@@ -10,7 +10,10 @@
         "updates.presonus.com",
         "api.presonus.com",
         "crl.verisign.net",
-        "ocsp.spo1.verisign.com"
+        "ocsp.spo1.verisign.com",
+        "adobe.io",
+        "adobestats.io",
+        "hstatic.io"
       ],
       "domain":[
         "googleads.g.doubleclick.net",
