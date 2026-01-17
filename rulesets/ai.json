@@ -1,22 +1,23 @@
 {
-  "version": 3,
-  "rules": [
-    {
-      "domain_suffix": [
-        "chat.openai.com",
-        "claude.ai",
-        "claude.com",
-        "chatgpt.com",
-        "x.ai",
-        "grok.com",
-        "anthropic.com",
-        "netflix.com",
-        "google.com",
-        "revolut.com",
-        "capitalone.com",
-        "t-mobile.com",
-        "ultramobile.com"
-      ]
-    }
-  ]
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "chat.openai.com",
+                "claude.ai",
+                "claude.com",
+                "chatgpt.com",
+                "x.ai",
+                "grok.com",
+                "anthropic.com",
+                "netflix.com",
+                "google.com",
+                "revolut.com",
+                "capitalone.com",
+                "t-mobile.com",
+                "ultramobile.com",
+                "amazonaws.com"
+            ]
+        }
+    ]
 }
