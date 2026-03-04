@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain_suffix": [
+                "spacex.com",
                 "yarbo.com",
                 "chat.openai.com",
                 "claude.ai",
