@@ -1,27 +1,28 @@
 {
-    "version": 3,
-    "rules": [
-        {
-            "domain_suffix": [
-                "spacex.com",
-                "yarbo.com",
-                "chat.openai.com",
-                "claude.ai",
-                "claude.com",
-                "chatgpt.com",
-                "x.ai",
-                "grok.com",
-                "anthropic.com",
-                "netflix.com",
-                "revolut.com",
-                "capitalone.com",
-                "t-mobile.com",
-                "ultramobile.com",
-                "amazonaws.com",
-                "discord.com",
-                "descente.com",
-                "geojs.io"
-            ]
-        }
-    ]
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "spacex.com",
+        "yarbo.com",
+        "chat.openai.com",
+        "claude.ai",
+        "claude.com",
+        "chatgpt.com",
+        "x.ai",
+        "grok.com",
+        "anthropic.com",
+        "netflix.com",
+        "revolut.com",
+        "capitalone.com",
+        "t-mobile.com",
+        "ultramobile.com",
+        "amazonaws.com",
+        "discord.com",
+        "descente.com",
+        "geojs.io",
+        "googleapis.com"
+      ]
+    }
+  ]
 }
