@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "notateslaapp.com",
         "spacex.com",
         "yarbo.com",
         "chat.openai.com",
