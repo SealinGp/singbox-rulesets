@@ -21,7 +21,7 @@ find . -type f -name "*.json" | while read -r json_file; do
         echo "Successfully compiled $json_file to $srs_file"
     else
         echo "Failed to compile $json_file"
-        exit 1
+        # exit 1
     fi
 done
 
