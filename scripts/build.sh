@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 查找当前目录及子目录下所有的 .json 文件
-find . -type f -name "*.json" | while read -r json_file; do
+find . -type f -name "*.json" ! -path "./.claude/*" | while read -r json_file; do
     # 获取文件所在目录
     dir_path=$(dirname "$json_file")
     # 获取不带路径的文件名
