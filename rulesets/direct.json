@@ -10,11 +10,10 @@
         "pigment.kobalte.dev"
       ],
       "domain_suffix": [
+        "yangliq.com",
+        "liangxin1.xyz",
         "ant.design",
-        "amazon.com",
         "controlplaneapp.com",
-        "amazonaws.com",
-        "amazon.dev",
         "synology.cn",
         "synology.com",
         "synology.com",
@@ -23,6 +22,9 @@
         "binance.info",
         "binance.com",
         "mail.163.com",
+        "amazon.com",
+        "amazonaws.com",
+        "amazon.dev",
         "media-amazon.com",
         "client.163.com"
       ]
