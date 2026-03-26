@@ -3,7 +3,7 @@
   "rules": [
     {
       "ip_cidr": ["199.180.115.0/24"],
-      "domain":[
+      "domain": [
         "images-cn.ssl-images-amazon.com",
         "cdn.cookielaw.org",
         "d36jcksde1wxzq.cloudfront.net",
@@ -23,6 +23,7 @@
         "binance.info",
         "binance.com",
         "mail.163.com",
+        "media-amazon.com",
         "client.163.com"
       ]
     }
