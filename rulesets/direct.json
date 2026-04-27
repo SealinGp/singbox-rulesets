@@ -2,7 +2,7 @@
   "version": 3,
   "rules": [
     {
-      "ip_cidr": ["199.180.115.0/24"],
+      "ip_cidr": ["199.180.115.0/24", "74.211.102.0/24"],
       "domain": [
         "images-cn.ssl-images-amazon.com",
         "cdn.cookielaw.org",
