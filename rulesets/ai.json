@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "reddit.com",
         "autonation.com",
         "shopify.com",
         "notateslaapp.com",
