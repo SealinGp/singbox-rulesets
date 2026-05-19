@@ -3,6 +3,16 @@
   "rules": [
     {
       "domain_suffix": [
+        "docker.io",
+        "bybit.com",
+        "gitea.com",
+        "paddle.com",
+        "claudflareinsights.com",
+        "google.com",
+        "googleapis.cn",
+        "googleapis.com",
+        "gstatic.com",
+        "xn--ngstr-lra8j.com",
         "klaviyo.com",
         "teslarati.com",
         "reddit.com",
