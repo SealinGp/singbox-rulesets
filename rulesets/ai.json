@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "amazon.com",
+        "media-amazon.com",
+        "amazon.dev",
+        "amazonaws.com",
         "docker.io",
         "bybit.com",
         "gitea.com",
