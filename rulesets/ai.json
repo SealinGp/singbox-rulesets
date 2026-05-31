@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "gorelay.net",
+        "scamalytics.com",
         "github.com",
         "amazon.com",
         "media-amazon.com",
