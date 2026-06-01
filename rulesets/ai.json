@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "tparts.com",
         "gorelay.net",
         "scamalytics.com",
         "amazon.com",
