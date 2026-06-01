@@ -2,8 +2,8 @@
   "version": 3,
   "rules": [
     {
+      "domain": ["tparts.com", "www.tparts.com"],
       "domain_suffix": [
-        "tparts.com",
         "gorelay.net",
         "scamalytics.com",
         "amazon.com",
