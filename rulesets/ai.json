@@ -4,6 +4,7 @@
     {
       "domain": ["tparts.com", "www.tparts.com"],
       "domain_suffix": [
+        "medusajs.com",
         "gorelay.net",
         "scamalytics.com",
         "amazon.com",
