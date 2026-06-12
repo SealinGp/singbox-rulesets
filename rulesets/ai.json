@@ -2,7 +2,7 @@
   "version": 3,
   "rules": [
     {
-      "domain": ["tparts.com", "www.tparts.com"],
+      "domain": ["tparts.com", "www.tparts.com", "gemini.google.com"],
       "domain_suffix": [
         "robinhood.com",
         "medusajs.com",
