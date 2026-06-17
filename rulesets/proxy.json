@@ -3,7 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "giffgaff.com"
+        "shopify.com",
+        "shopifycdn.com",
+        "myshopify.com",
+        "shopifycloud.com",
+        "shopifysvc.com"
       ]
     }
   ]
