@@ -12,11 +12,10 @@
         "xn--9kqz23b19z.com",
         "paddle.com",
         "claudflareinsights.com",
-        "cleantechnica.com"
+        "cleantechnica.com",
+        "worldmonitor.app"
       ],
-      "domain_regex": [
-        "^xn--.*\\.com$"
-      ]
+      "domain_regex": ["^xn--.*\\.com$"]
     }
   ]
 }
