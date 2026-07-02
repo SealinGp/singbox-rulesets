@@ -2,7 +2,21 @@
   "version": 3,
   "rules": [
     {
+       "domain": [
+        "gemini.google.com",
+        "gemini.gstatic.com"
+      ],
       "domain_suffix": [
+        "antigravity-unleash.goog",
+        "antigravity.google",
+        "firebaseapp.com",
+        "geminicli.com",
+        "google.com",
+        "google.dev",
+        "googleapis.cn",
+        "googleapis.com",
+        "gstatic.com",
+        "web.app",
         "oaiusercontent.com",
         "tesla.com",
         "instagram.com",
@@ -42,6 +56,10 @@
         "discord.com",
         "descente.com",
         "geojs.io"
+      ],
+
+      "domain_keyword": [
+        "antigravity"
       ]
     }
   ]
