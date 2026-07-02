@@ -2,12 +2,6 @@
   "version": 3,
   "rules": [
     {
-      "domain": [
-        "tparts.com",
-        "www.tparts.com",
-        "gemini.google.com",
-        "gemini.gstatic.com"
-      ],
       "domain_suffix": [
         "oaiusercontent.com",
         "tesla.com",
@@ -41,7 +35,6 @@
         "chatgpt.com",
         "x.ai",
         "grok.com",
-        "anthropic.com",
         "revolut.com",
         "capitalone.com",
         "t-mobile.com",

@@ -2,6 +2,7 @@
   "version": 3,
   "rules": [
     {
+      "domain": ["gemini.google.com", "gemini.gstatic.com"],
       "domain_suffix": ["claude.ai", "claude.com", "anthropic.com"]
     }
   ]
