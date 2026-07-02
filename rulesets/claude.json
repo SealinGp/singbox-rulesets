@@ -14,7 +14,8 @@
         "googleapis.com",
         "antigravity-unleash.goog",
         "antigravity.google"
-      ]
+      ],
+      "domain_keyword": ["antigravity"]
     }
   ]
 }
