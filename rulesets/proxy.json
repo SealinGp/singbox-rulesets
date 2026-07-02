@@ -14,10 +14,7 @@
         "paddle.com",
         "claudflareinsights.com",
         "cleantechnica.com",
-        "worldmonitor.app",
-        "google.com",
-        "googleapis.cn",
-        "googleapis.com"        
+        "worldmonitor.app"        
       ],
       "domain_regex": ["^xn--.*\\.com$"]
     }
