@@ -3,7 +3,13 @@
   "rules": [
     {
       "domain": ["gemini.google.com", "gemini.gstatic.com"],
-      "domain_suffix": ["claude.ai", "claude.com", "anthropic.com"]
+      "domain_suffix": [
+        "claude.ai",
+        "claude.com",
+        "anthropic.com",
+        "geminicli.com"
+        
+      ]
     }
   ]
 }

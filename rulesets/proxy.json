@@ -17,7 +17,7 @@
         "worldmonitor.app",
         "google.com",
         "googleapis.cn",
-        "googleapis.com"
+        "googleapis.com"        
       ],
       "domain_regex": ["^xn--.*\\.com$"]
     }
