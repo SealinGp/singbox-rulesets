@@ -2,11 +2,9 @@
   "version": 3,
   "rules": [
     {
-       "domain": [
-        "gemini.google.com",
-        "gemini.gstatic.com"
-      ],
+      "domain": ["gemini.google.com", "gemini.gstatic.com"],
       "domain_suffix": [
+        "redpocket.com",
         "tiktokv.com",
         "tiktokcdn.com",
         "tiktok.com",
@@ -62,10 +60,7 @@
         "geojs.io"
       ],
 
-      "domain_keyword": [
-        "antigravity",
-        "tiktok"
-      ]
+      "domain_keyword": ["antigravity", "tiktok"]
     }
   ]
 }
