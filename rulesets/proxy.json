@@ -14,7 +14,8 @@
         "paddle.com",
         "claudflareinsights.com",
         "cleantechnica.com",
-        "worldmonitor.app"        
+        "worldmonitor.app",
+        "t.co"
       ],
       "domain_regex": ["^xn--.*\\.com$"]
     }
