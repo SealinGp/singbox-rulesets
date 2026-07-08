@@ -7,13 +7,15 @@
         "claude.ai",
         "claude.com",
         "chatgpt.com",
-        "openai.com"
+        "openai.com",
+        "link.com"
       ],
       "domain_keyword": [
         "claude",
         "anthropic",
         "openai",
-        "chatgpt"
+        "chatgpt",
+        "stripe"
       ]
     }
   ]
