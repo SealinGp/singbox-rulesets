@@ -5,11 +5,15 @@
       "domain_suffix": [
         "anthropic.com",        
         "claude.ai",
-        "claude.com"        
+        "claude.com",
+        "chatgpt.com",
+        "openai.com"
       ],
       "domain_keyword": [
         "claude",
-        "anthropic"
+        "anthropic",
+        "openai",
+        "chatgpt"
       ]
     }
   ]
