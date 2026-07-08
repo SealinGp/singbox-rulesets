@@ -17,7 +17,8 @@
         "worldmonitor.app",
         "t.co"
       ],
-      "domain_regex": ["^xn--.*\\.com$"]
+      "domain_regex": ["^xn--.*\\.com$"],
+      "ip_cidr": ["12.19.136.0/24"]
     }
   ]
 }
