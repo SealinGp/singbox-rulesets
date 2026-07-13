@@ -2,7 +2,6 @@
   "version": 3,
   "rules": [
     {
-      "domain": ["gemini.google.com", "gemini.gstatic.com"],
       "domain_suffix": [
         "redpocket.com",
         "tiktokv.com",
@@ -11,7 +10,6 @@
         "ttwstatic.com",
         "antigravity-unleash.goog",
         "firebaseapp.com",
-        "geminicli.com",
         "gstatic.com",
         "web.app",
         "oaiusercontent.com",
@@ -51,8 +49,7 @@
         "geojs.io",
         "hubspotlinks.com"
       ],
-
-      "domain_keyword": ["antigravity", "tiktok", "gemini"]
+      "domain_keyword": ["tiktok"]
     }
   ]
 }
