@@ -10,13 +10,8 @@
         "tiktok.com",
         "ttwstatic.com",
         "antigravity-unleash.goog",
-        "antigravity.google",
         "firebaseapp.com",
         "geminicli.com",
-        "google.com",
-        "google.dev",
-        "googleapis.cn",
-        "googleapis.com",
         "gstatic.com",
         "web.app",
         "oaiusercontent.com",
@@ -57,7 +52,7 @@
         "hubspotlinks.com"
       ],
 
-      "domain_keyword": ["antigravity", "tiktok"]
+      "domain_keyword": ["antigravity", "tiktok", "gemini"]
     }
   ]
 }
