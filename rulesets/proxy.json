@@ -17,7 +17,8 @@
         "cleantechnica.com",
         "worldmonitor.app",
         "autocare.org",
-        "t.co"
+        "t.co",
+        "autocarevip.com"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
       "domain_keyword": ["tparts", "shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "t.co","giffgaff"]
