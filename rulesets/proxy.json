@@ -16,6 +16,7 @@
         "claudflareinsights.com",
         "cleantechnica.com",
         "worldmonitor.app",
+        "autocare.com",
         "t.co"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
