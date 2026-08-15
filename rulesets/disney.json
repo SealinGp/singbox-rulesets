@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "disneyplus.com",
+        "disney-plus.net",
+        "disneystreaming.com",
+        "disney.io",
+        "bamgrid.com",
+        "bamtech.co",
+        "bamtechmedia.com",
+        "dssott.com",
+        "dssedge.com",
+        "registerdisney.go.com",
+        "disneyplus.bn5x.net",
+        "go-disneyplus.appspot.com",
+        "starott.com",
+        "star.disneyplus.com",
+        "hotstar.com",
+        "hotstarext.com",
+        "dtci.technology",
+        "bam.nr-data.net"
+      ],
+      "domain_keyword": ["disneyplus", "bamgrid", "dssott", "hotstar"]
+    }
+  ]
+}
