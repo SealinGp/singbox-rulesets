@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "pollo.ai",
+        "artlist.io",
+        "davinci.ai",
         "redpocket.com",
         "tiktokv.com",
         "tiktokcdn.com",
