@@ -6,8 +6,6 @@
         "anthropic.com",        
         "claude.ai",
         "claude.com",
-        "chatgpt.com",
-        "openai.com",
         "link.com",
         "sprig.com"
       ],
@@ -16,8 +14,6 @@
         "psegliny",
         "claude",
         "anthropic",
-        "openai",
-        "chatgpt",
         "stripe"
       ]
     }
