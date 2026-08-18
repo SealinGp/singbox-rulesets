@@ -22,7 +22,8 @@
         "seattletimes.com",
         "mermaid.live",
         "huarenok.com",
-        "geico.com"
+        "geico.com",
+        "accio.sjv.io"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
       "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "t.co","giffgaff","z-library"]
