@@ -23,7 +23,10 @@
         "mermaid.live",
         "huarenok.com",
         "geico.com",
-        "accio.sjv.io"
+        "accio.sjv.io",
+        "docker.n8n.io",
+        "docker.com",
+        "docker.io"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
       "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "t.co","giffgaff","z-library"]
