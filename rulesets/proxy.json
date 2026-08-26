@@ -13,7 +13,7 @@
         "shopifysvc.com",
         "xn--9kqz23b19z.com",
         "paddle.com",
-        "claudflareinsights.com",
+        "cloudflareinsights.com",
         "cleantechnica.com",
         "worldmonitor.app",
         "autocare.org",
@@ -26,10 +26,18 @@
         "accio.sjv.io",
         "docker.n8n.io",
         "docker.com",
-        "docker.io"
+        "docker.io",
+
+        "digitaloceanspaces.com",
+        "postimg.cc",
+        "uwants.com",
+        "discuss.com.hk",
+        "z-lib.io",
+        "telega.me",
+        "telega.info"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
-      "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "t.co","giffgaff","z-library"]
+      "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "giffgaff", "z-library"]
     }
   ]
 }
