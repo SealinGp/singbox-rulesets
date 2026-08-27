@@ -2,7 +2,7 @@
   "version": 3,
   "rules": [
     {
-      "domain": ["tparts.com", "www.tparts.com"],
+      "domain": ["tparts.com", "www.tparts.com","ads.google.com"],
       "domain_suffix": [
         "xn--vuqv2cf7wzyig79c.com",
         "ghcr.io",
@@ -27,7 +27,6 @@
         "docker.n8n.io",
         "docker.com",
         "docker.io",
-
         "digitaloceanspaces.com",
         "postimg.cc",
         "uwants.com",
