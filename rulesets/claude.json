@@ -1,14 +1,19 @@
 {
   "version": 3,
   "rules": [
-    {     
+    {
       "domain_suffix": [
-        "anthropic.com",        
+        "anthropic.com",
+        "blockifyapp.com",
         "claude.ai",
         "claude.com",
-        "link.com",
         "evbandit.com",
-        "sprig.com"
+        "geojs.io",
+        "ip2location.io",
+        "link.com",
+        "radar.cloudflare.com",
+        "sprig.com",
+        "synctrack.io"
       ],
       "domain_keyword": [
         "nationalgrid",
