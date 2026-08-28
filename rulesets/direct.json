@@ -8,7 +8,15 @@
         "cdn.cookielaw.org",
         "d36jcksde1wxzq.cloudfront.net",
         "pigment.kobalte.dev",
-        "pwd.tparts.com.cn"
+        "pwd.tparts.com.cn",
+        "ads.google.com",
+        "sso.e.qq.com",
+        "pwd.tparts.com.cn",
+        "huxuan.qq.com",
+        "file.daihuo.qq.com",
+        "ad.qq.com",
+        "public.gdtimg.com",
+        "e.qq.com"
       ],
       "domain_suffix": [
         "hetzner.com",
@@ -28,7 +36,6 @@
         "waimaoxia.com",
         "mail.163.com",
         "client.163.com",
-
         "music.126.net",
         "mail.126.net",
         "netease.com",
