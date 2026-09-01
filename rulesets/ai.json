@@ -11,10 +11,6 @@
         "tiktokcdn.com",
         "tiktok.com",
         "ttwstatic.com",
-        "antigravity-unleash.goog",
-        "firebaseapp.com",
-        "gstatic.com",
-        "web.app",
         "oaiusercontent.com",
         "tesla.com",
         "instagram.com",
@@ -26,7 +22,6 @@
         "gitea.com",
         "paddle.com",
         "claudflareinsights.com",
-        "xn--ngstr-lra8j.com",
         "klaviyo.com",
         "teslarati.com",
         "reddit.com",
@@ -48,7 +43,12 @@
         "geojs.io",
         "hubspotlinks.com"
       ],
-      "domain_keyword": ["tiktok","whatsapp","chatgpt","openai","gemini"]
+      "domain_keyword": [
+        "tiktok",
+        "whatsapp",
+        "chatgpt",
+        "openai"
+      ]
     }
   ]
 }
