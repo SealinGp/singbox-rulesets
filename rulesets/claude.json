@@ -21,7 +21,9 @@
         "psegliny",
         "claude",
         "anthropic",
-        "stripe"
+        "stripe",
+        "openai",
+        "chatgpt"
       ]
     }
   ]
