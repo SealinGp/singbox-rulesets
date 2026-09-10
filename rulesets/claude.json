@@ -2,7 +2,11 @@
   "version": 3,
   "rules": [
     {
+      "domain": [
+        "lcdn-locator.apple.com"
+      ],
       "domain_suffix": [
+        "ultramobile.com",
         "anthropic.com",
         "blockifyapp.com",
         "claude.ai",
