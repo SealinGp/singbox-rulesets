@@ -6,6 +6,9 @@
         "lcdn-locator.apple.com"
       ],
       "domain_suffix": [
+        "docker.io",
+        "docker.n8n.io",
+        "docker.com",
         "xlightshows.io",
         "ultramobile.com",
         "anthropic.com",
