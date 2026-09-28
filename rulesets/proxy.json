@@ -27,15 +27,15 @@
         "mermaid.live",
         "huarenok.com",
         "geico.com",
-        "accio.sjv.io",
-        
+        "accio.sjv.io",        
         "digitaloceanspaces.com",
         "postimg.cc",
         "uwants.com",
         "discuss.com.hk",
         "z-lib.io",
         "telega.me",
-        "telega.info"
+        "telega.info",
+        "typesafe.ai"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
       "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "giffgaff", "z-library"]
