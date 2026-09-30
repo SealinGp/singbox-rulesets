@@ -35,7 +35,8 @@
         "z-lib.io",
         "telega.me",
         "telega.info",
-        "typesafe.ai"
+        "typesafe.ai",
+        "magnific.com"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
       "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "giffgaff", "z-library"]
