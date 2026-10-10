@@ -37,7 +37,8 @@
         "telega.me",
         "telega.info",
         "typesafe.ai",
-        "magnific.com"
+        "magnific.com",
+        "smoothswingapp.com"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
       "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "giffgaff", "z-library"]
