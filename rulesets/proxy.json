@@ -38,10 +38,10 @@
         "telega.info",
         "typesafe.ai",
         "magnific.com",
-        "smoothswingapp.com"
+        "smoothswingapp.com"        
       ],
       "domain_regex": ["^xn--.*\\.com$"],
-      "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "giffgaff", "z-library"]
+      "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "giffgaff", "z-library","capcut"]
     }
   ]
 }
