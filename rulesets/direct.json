@@ -117,6 +117,10 @@
         "s5.mzstatic.com",
         "search.itunes.apple.com"
       ]
+    },
+    {
+      "domain": ["ssh.github.com"],
+      "port": [443]
     }
   ]
 }
