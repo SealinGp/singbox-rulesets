@@ -40,7 +40,8 @@
         "typesafe.ai",
         "magnific.com",
         "smoothswingapp.com",
-        "mailplug.com"
+        "mailplug.com",
+        "airtcp.pro"
       ],
       "domain_regex": ["^xn--.*\\.com$"],
       "domain_keyword": ["shopify", "paddle", "cloudflare", "cleantechnica", "worldmonitor", "giffgaff", "z-library","capcut"]
