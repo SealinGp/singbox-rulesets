@@ -4,6 +4,7 @@
     {
       "domain": ["tparts.com", "www.tparts.com","ads.google.com"],
       "domain_suffix": [
+        "mikrotik.com",
         "pinterest.com",
         "fotor.com",
         "annas-archive.is",
@@ -32,7 +33,7 @@
         "accio.sjv.io",        
         "digitaloceanspaces.com",
         "postimg.cc",
-        "uwants.com",
+        "uwants.com", 
         "discuss.com.hk",
         "z-lib.io",
         "telega.me",
